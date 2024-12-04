@@ -782,7 +782,7 @@ img {
 }
 
 .sec-experiences .experience-list .company-name span {
-  display: inline-block;
+  display: block;
 }
 
 .sec-experiences .experience-list .company-name span a {
